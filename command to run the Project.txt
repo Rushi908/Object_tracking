@@ -1,0 +1,3 @@
+command to track the object
+python detect_or_track.py --weights yolov7.pt --no-trace --source street.mp4 --show-fps --seed 2 --track --classes 0 1 --show-track --unique-track-color --nobbox --nolabel
+
